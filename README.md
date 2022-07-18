@@ -6,10 +6,11 @@ Brand Salicyl in one year from the raw data that has been
 provided.
 
 **Actions**:
-● Processed raw data into clean data that can be used
+1. Processed raw data into clean data that can be used
 for visualization.
-● Added complementary data, namely latitude and
+2. Added complementary data, namely latitude and
 longitude data for each customer location.
 
 **Tools**: Google Spreadsheet, Google Data Studio.
+
 **Full Document**: https://datastudio.google.com/reporting/71c6630c-2229-4b16-8497-0a9bf9883125
